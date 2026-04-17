@@ -3,7 +3,7 @@
 
 ### ☑️Back-end
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<text xmlns="http://www.w3.org/2000/svg" transform="scale(.1)" x="618.75" y="175" textLength="597.5" fill="#fff" font-weight="bold">MYBATIS</text>
+
 
 ### ☑️Database
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
